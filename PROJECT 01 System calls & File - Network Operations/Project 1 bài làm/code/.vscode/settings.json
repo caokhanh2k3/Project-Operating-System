@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "copyright.h": "c",
+        "*.tcc": "c",
+        "type_traits": "c"
+    }
+}
